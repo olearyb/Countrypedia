@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <countries>
+        <country>
+            <name>Ireland</name>
+            <continent>Europe</continent>
+            <capital>Dublin</capital>
+            <language>Irish</language>
+            <image>IE_ireland.png</image>
+            <image1>IE_Globe.png</image1>
+            <population>6.5 million</population>
+            <demonym>Irish</demonym>
+            <currency>Euro (EUR)</currency>
+            <timezone>UTC</timezone>
+            <url>https://en.wikipedia.org/wiki/Ireland</url>
+        </country>
+        <country>
+            <name>United Kingdom</name>
+            <continent>Europe</continent>
+            <capital>London</capital>
+            <language>English</language>
+            <image>UK_unitedKingdom.png</image>
+            <image1>UK_Globe.jpg</image1>
+            <population>67.5 million</population>
+            <demonym>British</demonym>
+            <currency>Pound Sterling (GBP)</currency>
+            <timezone>UTC</timezone>
+            <url>https://en.wikipedia.org/wiki/England</url>
+        </country>
+        <country>
+            <name>South Africa</name>
+            <continent>Africa</continent>
+            <capital>Cape Town (unofficial)</capital>
+            <language>English, Afrikaans</language>
+            <image>ZA_southAfrica.png</image>
+            <image1>SA_Globe.png</image1>
+            <population>58.7 million</population>
+            <demonym>South African</demonym>
+            <currency>Rand (ZAR)</currency>
+            <timezone>UTC+2</timezone>
+            <url>https://en.wikipedia.org/wiki/South_Africa</url>
+        </country>
+        <country>
+            <name>Brazil</name>
+            <continent>South America</continent>
+            <capital>Brasilia</capital>
+            <language>Portuguese</language>
+            <image>BR_brazil.png</image>
+            <image1>BR_Globe.png</image1>
+            <population>210 million</population>
+            <demonym>Brazilian</demonym>
+            <currency>Real (BRL)</currency>
+            <timezone>UTC -2, UTC-5</timezone>
+            <url>https://en.wikipedia.org/wiki/Brazil</url>
+        </country>
+        <country>
+            <name>Morocco</name>
+            <continent>Africa</continent>
+            <capital>Rabat</capital>
+            <language>Arabic</language>
+            <image>MA_marocco.png</image>
+            <image1>MO_Globe.png</image1>
+            <population>35.5 million</population>
+            <demonym>Moroccan</demonym>
+            <currency>Moroccan Dirham (MAD)</currency>
+            <timezone>UTC+1</timezone>
+            <url>https://en.wikipedia.org/wiki/Morocco</url>
+        </country>
+        <country>
+            <name>China</name>
+            <continent>Asia</continent>
+            <capital>Beijing</capital>
+            <language>Mandarin</language>
+            <image>CN_china.png</image>
+            <image1>CH_Globe.png</image1>
+            <population>1.4 billion</population>
+            <demonym>Chinese</demonym>
+            <currency>Renmibi(Yuan)(CNY)</currency>
+            <timezone>UTC+8</timezone>
+            <url>https://en.wikipedia.org/wiki/China</url>
+        </country>
+        <country>
+            <name>Japan</name>
+            <continent>Asia</continent>
+            <capital>Tokyo</capital>
+            <language>Japanese</language>
+            <image>JP_japan.png</image>
+            <image1>JP_Globe.png</image1>
+            <population>126 million</population>
+            <demonym>Japanese</demonym>
+            <currency>Yen (JPY)</currency>
+            <timezone>UTC+9</timezone>
+            <url>https://en.wikipedia.org/wiki/Japan</url>
+        </country>
+        <country>
+            <name>USA</name>
+            <continent>North America</continent>
+            <capital>Washington D.C</capital>
+            <language>English</language>
+            <image>US_unitedStates.png</image>
+            <image1>US_Globe.png</image1>
+            <population>328 million</population>
+            <demonym>American</demonym>
+            <currency>US Dollar (USD)</currency>
+            <timezone>UTC-4, -12</timezone>
+            <url>https://en.wikipedia.org/wiki/United_States</url>
+        </country>
+        <country>
+            <name>Australia</name>
+            <continent>Australasia</continent>
+            <capital>Canberra</capital>
+            <language>English</language>
+            <image>AU_australia.png</image>
+            <image1>OZ.png</image1>
+            <population>25.6 million</population>
+            <demonym>Australian</demonym>
+            <currency>Aus Dollar (AUD)</currency>
+            <timezone>UTC+8, +10</timezone>
+            <url>https://en.wikipedia.org/wiki/Australia</url>
+        </country>
+        <country>
+            <name>Netherlands</name>
+            <continent>Europe</continent>
+            <capital>Amsterdam</capital>
+            <language>Dutch</language>
+            <image>NL_netherlands.png</image>
+            <image1>NL_Globe.png</image1>
+            <population>17.4 million</population>
+            <demonym>Dutch</demonym>
+            <currency>Euro (EUR)</currency>
+            <timezone>UTC+1</timezone>
+            <url>https://en.wikipedia.org/wiki/Netherlands</url>
+        </country>
+        <country>
+            <name>Canada</name>
+            <continent>North America</continent>
+            <capital>Ottowa</capital>
+            <language>English, French</language>
+            <image>CA_canada.png</image>
+            <image1>CA_Globe.png</image1>
+            <population>37.8 million</population>
+            <demonym>Canadian</demonym>
+            <currency>Canadian Dollar (CAD)</currency>
+            <timezone>UTC-3, -8</timezone>
+            <url>https://en.wikipedia.org/wiki/Canada</url>
+        </country>
+        <country>
+            <name>Mexico</name>
+            <continent>North America</continent>
+            <capital>Mexico City</capital>
+            <language>Spanish</language>
+            <image>MX_mexico.png</image>
+            <image1>MX_Globe.png</image1>
+            <population>126.5 million</population>
+            <demonym>Mexican</demonym>
+            <currency>Peso (MXN)</currency>
+            <timezone>UTC-8, -5</timezone>
+            <url>https://en.wikipedia.org/wiki/Mexico</url>
+        </country>
+        <country>
+            <name>Spain</name>
+            <continent>Europe</continent>
+            <capital>Madrid</capital>
+            <language>Spanish</language>
+            <image>ES_spain.png</image>
+            <image1>ES_Globe.png</image1>
+            <population>46.7 million</population>
+            <demonym>Spanish</demonym>
+            <currency>Euro (EUR)</currency>
+            <timezone>UTC+1</timezone>
+            <url>https://en.wikipedia.org/wiki/Spain</url>
+        </country>
+        <country>
+            <name>UAE</name>
+            <continent>Asia</continent>
+            <capital>Abu Dhabi</capital>
+            <language>Arabic</language>
+            <image>AE_unitedArabEmirates.png</image>
+            <image1>UAE_Globe.png</image1>
+            <population>9.6 million</population>
+            <demonym>Emirati</demonym>
+            <currency>UAE Dirham (AED)</currency>
+            <timezone>UTC+4</timezone>
+            <url>https://en.wikipedia.org/wiki/UAE</url>
+        </country>
+        <country>
+            <name>Germany</name>
+            <continent>Europe</continent>
+            <capital>Berlin</capital>
+            <language>German</language>
+            <image>DE_germany.png</image>
+            <image1>DE_Globe.png</image1>
+            <population>83.1 million</population>
+            <demonym>German</demonym>
+            <currency>Euro (EUR)</currency>
+            <timezone>UTC+1</timezone>
+            <url>https://en.wikipedia.org/wiki/Germany</url>
+        </country>
+        <country>
+            <name>Hong Kong</name>
+            <continent>Asia</continent>
+            <capital>Hong Kong</capital>
+            <language>Chinese, English</language>
+            <image>HK_hongKong.png</image>
+            <image1>HK_globe.jpg</image1>
+            <population>7.5 million</population>
+            <demonym>Hongkonger</demonym>
+            <currency>HK Dollar (HKD)</currency>
+            <timezone>UTC+8</timezone>
+            <url>https://en.wikipedia.org/wiki/Hong_Kong</url>
+        </country>
+    </countries>
+
+
+
+
+
+        
